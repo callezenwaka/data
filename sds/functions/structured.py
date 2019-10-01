@@ -1,5 +1,6 @@
 # from .imports import *
 # Import packages
+import re
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
