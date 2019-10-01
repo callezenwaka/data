@@ -1,4 +1,8 @@
 # from .imports import *
+# Import packages
+import numpy as np
+import pandas as pd
+import matplotlib.pyplot as plt
 
 from sklearn_pandas import DataFrameMapper
 from sklearn.preprocessing import LabelEncoder, Imputer, StandardScaler
